@@ -1,4 +1,4 @@
-# PURE_JS_CRUD_OPERATION
+# JS_CRUD_OPERATION
 A simple CRUD operation with JS.
 
 CRUD operations are the fundamental building blocks of data manipulation within computer systems, databases, and software applications. The acronym CRUD stands for Create, Read, Update, and Delete, representing the four essential operations that can be performed on data:
